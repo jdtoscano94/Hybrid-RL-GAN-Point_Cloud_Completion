@@ -21,7 +21,10 @@ completing teeth PCs with good accuracy over different scenarios.
  - Generative Adversarial Neural Networks
  - Reinforcement Learning
  - Data augmentation algorithms
+## Data
+You can download the data from my personal google drive.
 
+Link: https://drive.google.com/drive/folders/1_VmlWu-_HaWPlK1t5X0ZuMv-YtDEvDE2?usp=sharing
 ## Citation
 @article{toscano2023teeth,
   title={Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN},
