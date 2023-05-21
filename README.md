@@ -16,6 +16,9 @@ that selects the best completion to the teeth PCs from AE and a reinforcement le
 agent-controlled GAN. Ablation study is performed to analyze each component’s contribution. We compared our method with other benchmark methods including point cloud
 network (PCN), cascaded refinement network (CRN), and variational relational point completion network (VRC-Net), and demonstrated that the proposed framework is suitable for
 completing teeth PCs with good accuracy over different scenarios.
+
+Paper: https://asmedigitalcollection.asme.org/computingengineering/article/23/4/041008/1155799/Teeth-Mold-Point-Cloud-Completion-Via-Data
+
 ## Components
  - Deep Autoencoders
  - Generative Adversarial Neural Networks
