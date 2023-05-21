@@ -24,10 +24,12 @@ Paper: https://asmedigitalcollection.asme.org/computingengineering/article/23/4/
  - Generative Adversarial Neural Networks
  - Reinforcement Learning
  - Data augmentation algorithms
-## Data
-You can download the data from my personal google drive.
+## Steps
+1. Download the data:
 
 Link: https://drive.google.com/drive/folders/1_VmlWu-_HaWPlK1t5X0ZuMv-YtDEvDE2?usp=sharing
+
+2. Preprocess the data using 
 ## Citation
 @article{toscano2023teeth,
   title={Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN},
