@@ -1,5 +1,4 @@
-# Hybrid-RL-GAN-For_Point_Cloud_Completion
-Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN (Official Implementation)
+# Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN (Official Implementation)
 
 ## Abstract
 
