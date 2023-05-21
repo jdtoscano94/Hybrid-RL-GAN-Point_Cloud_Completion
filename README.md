@@ -20,7 +20,7 @@ completing teeth PCs with good accuracy over different scenarios.
  - Deep Autoencoders
  - Generative Adversarial Neural Networks
  - Reinforcement Learning
- - Data augmentation
+ - Data augmentation algorithms
 
 ## Citation
 @article{toscano2023teeth,
