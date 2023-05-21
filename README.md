@@ -40,5 +40,5 @@ Link: https://drive.google.com/drive/folders/1_VmlWu-_HaWPlK1t5X0ZuMv-YtDEvDE2?u
 1. https://github.com/iSarmad/RL-GAN-Net
 2. https://github.com/optas/latent_3d_points
 3. https://github.com/heykeetae/Self-Attention-GAN
-4. https://github.com/lijx10/SO-Net (for chamfer distance)
+4. https://github.com/lijx10/SO-Net
 5. https://github.com/sfujim/TD3
