@@ -20,10 +20,10 @@ completing teeth PCs with good accuracy over different scenarios.
 
 
 ### Algorithms
-GANS for data aumentation
+#### GANS for data aumentation
 ![IterativeGAN3](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/41d86c9f-5d20-4e7e-ba30-291a2ae2e33c)
 
-RL-GAN for point cloud reconstruction
+#### RL-GAN for point cloud reconstruction
 
 ![RL_GAN](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/3896cf49-d6ae-4b5e-83ba-7c2e418f24d7)
 
