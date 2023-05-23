@@ -15,9 +15,16 @@ that selects the best completion to the teeth PCs from AE and a reinforcement le
 agent-controlled GAN. An ablation study is performed to analyze each component's contribution. We compared our method with other benchmark methods, including point cloud
 network (PCN), cascaded refinement network (CRN), and variational relational point completion network (VRC-Net). We demonstrated that the proposed framework is suitable for
 completing teeth PCs with good accuracy over different scenarios.
-![Framework](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/7199ab9b-f87d-4fef-b8b5-f7175a8fcfb6)
+![Framework](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/c2a68190-3fad-4b49-a597-62f24ee31b62)
+
+
+
 ### Algorithms
+GANS for data aumentation
 ![IterativeGAN3](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/41d86c9f-5d20-4e7e-ba30-291a2ae2e33c)
+
+RL-GAN for point cloud reconstruction
+
 ![RL_GAN](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/3896cf49-d6ae-4b5e-83ba-7c2e418f24d7)
 
 
