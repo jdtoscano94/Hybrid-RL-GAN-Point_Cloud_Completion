@@ -1,5 +1,8 @@
 # Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN (Official Implementation)
 
+![Framework](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/c2a68190-3fad-4b49-a597-62f24ee31b62)
+
+
 ## Abstract
 
 Teeth scans are essential for many applications in orthodontics, where the teeth structures
@@ -15,7 +18,7 @@ that selects the best completion to the teeth PCs from AE and a reinforcement le
 agent-controlled GAN. An ablation study is performed to analyze each component's contribution. We compared our method with other benchmark methods, including point cloud
 network (PCN), cascaded refinement network (CRN), and variational relational point completion network (VRC-Net). We demonstrated that the proposed framework is suitable for
 completing teeth PCs with good accuracy over different scenarios.
-![Framework](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/c2a68190-3fad-4b49-a597-62f24ee31b62)
+
 
 ### Results
 ![Results](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/b714997e-495b-4de2-aef5-070003c115b2)
