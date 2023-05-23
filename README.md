@@ -16,6 +16,14 @@ agent-controlled GAN. An ablation study is performed to analyze each component's
 network (PCN), cascaded refinement network (CRN), and variational relational point completion network (VRC-Net). We demonstrated that the proposed framework is suitable for
 completing teeth PCs with good accuracy over different scenarios.
 ![Framework](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/7199ab9b-f87d-4fef-b8b5-f7175a8fcfb6)
+### Algorithms
+![IterativeGAN3](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/41d86c9f-5d20-4e7e-ba30-291a2ae2e33c)
+![RL_GAN](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/3896cf49-d6ae-4b5e-83ba-7c2e418f24d7)
+
+
+### Results
+![Results](https://github.com/jdtoscano94/Hybrid-RL-GAN-Point_Cloud_Completion/assets/102500060/b714997e-495b-4de2-aef5-070003c115b2)
+
 
 
 Paper: https://asmedigitalcollection.asme.org/computingengineering/article/23/4/041008/1155799/Teeth-Mold-Point-Cloud-Completion-Via-Data
